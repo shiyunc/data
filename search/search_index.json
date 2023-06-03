@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":""},{"location":"#data","title":"Data","text":"<p>Data collected can be classified into two types: quantitative and qualitative.</p> <ul> <li>Quantitative</li> <li>Qualitative</li> </ul>"}]}
