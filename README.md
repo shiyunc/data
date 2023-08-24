@@ -1,1 +1,1 @@
-## Beginner Data Analysis Projects
+## Beginner Data Projects
