@@ -5,5 +5,5 @@
 
 <br />
 
-> Data science basic
+> Data science
 - EDA using pandas, matplotlib, numpy and seaborn
