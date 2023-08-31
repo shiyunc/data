@@ -1,4 +1,6 @@
-## Beginner Python Data Projects
+## Beginner Data Projects
+
+### Python
 
 > Data cleaning
 - <code>fillna(0)</code>: replace nans with zeros
@@ -7,3 +9,10 @@
 
 > Data science
 - EDA using pandas, matplotlib, numpy and seaborn
+
+<br />
+
+### Sqlite and Python
+
+> Database
+- Set up simple database and run queries using jupyter notebook
