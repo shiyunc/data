@@ -6,7 +6,7 @@
 - Upload csv into sqlite database using jupyter notebook
 - Create, insert, update and delete simple database
 - Create a database
-- Data cleaning
+- Data cleaning, functions
 - Sql analysis
 
 ### Python
