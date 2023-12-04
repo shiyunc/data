@@ -10,7 +10,7 @@
 - Sql analysis
 
 ### Python
-> Data science
-- EDA using pandas, matplotlib, numpy and seaborn
+- Data science eda using pandas, matplotlib, numpy and seaborn
+- Data cleaning
 
 <br />
