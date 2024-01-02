@@ -12,5 +12,6 @@
 ### Python
 - Data science eda using pandas, matplotlib, numpy and seaborn
 - Data cleaning
+- Eda
 
 <br />
